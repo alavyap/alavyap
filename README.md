@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aalavya.pandey@gmail.com**
 
-- ⚡ Fun fact **i love debugging **
+- ⚡ Fun fact **i love debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
