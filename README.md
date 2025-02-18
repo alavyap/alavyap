@@ -101,6 +101,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alavyap&" alt="alavyap" /></p>
 
 
-
 <!-- Snake -->
 ![snake_gif](https://github.com/alavya/alavyap/blob/output/github-snake-dark.svg)
