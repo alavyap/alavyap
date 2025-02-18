@@ -103,6 +103,4 @@
 
 
 <!-- Snake -->
-<div align="center">
 ![snake_gif](https://github.com/alavya/alavyap/blob/output/github-snake-dark.svg)
-</div>
