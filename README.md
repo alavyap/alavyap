@@ -69,7 +69,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alavyap&show_icons=true&locale=en&layout=compact" alt="alavyap" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alavyap&" alt="alavyap" /></p>
+
 
 
 ### ✍️ Random Dev Quote
