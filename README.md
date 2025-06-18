@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alavya Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 <img  alt="coding" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alavyap&label=Profile%20views&color=0e75b6&style=flat" alt="alavyap" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **Python**
 
 - 👨‍💻 Best of my projects are available at [https://www.alavyapandey.com/](https://www.alavyapandey.com/)
 
